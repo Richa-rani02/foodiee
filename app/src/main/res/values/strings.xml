@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Foodiee</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="title">Welcome to </string>
+    <string name="title1">Foodiee</string>
+    <string name="register_text">create your Account</string>
+    <string name="login_text">Login</string>
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">Get Best tifin service!</string>
+
+    <string name="slide_2_title">Schedule Delivery</string>
+    <string name="slide_2_desc">Schedule your delivery and surprise your family and friends </string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best Discount on Every Order!</string>
+
+    <string name="slide_4_title">Fastest Delivery</string>
+    <string name="slide_4_desc">Fastest Delivery Food App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid Email</string>
+    <string name="mobileerror">Enter a valid mobile number</string>
+    <string name="passerror">Enter a valid password</string>
+</resources>
