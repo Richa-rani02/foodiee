@@ -42,7 +42,7 @@ public class Addon_listAdapter extends RecyclerView.Adapter<Addon_listAdapter.Vi
         holder.extra_desc.setText(addondata.getExtraDesc());
         Picasso.with(context).load(addondata.getExtraImg()).into(holder.extra_img);
     }
-
+/////this is a check//////////////
     @Override
     public int getItemCount() {
         return Addondata.size();
